@@ -2,6 +2,9 @@
 
 This repo contains Sematext's integrations listed on the Vercel Marketplace.
 
+- [Sematext Logs for Vercel](https://sematext.com/docs/integration/vercel-logs-integration/)
+- [Sematext Experience for Vercel](https://sematext.com/docs/experience/integrations/#vercel)
+
 ## Sematext Logs
 
 Send logs from your Vercel apps to Sematext for easy debugging and troubleshooting.
