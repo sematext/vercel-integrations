@@ -18,7 +18,7 @@ Send logs from your Vercel apps to Sematext for easy debugging and troubleshooti
 - Search for specific logs with full-text search
 - Filter logs based on sources, status codes, errors, hosts...
 
-Add it to your Vercel Account [here](https://vercel.com/integrations/sematext-log-drain).
+[Click here to add it to your Vercel Account](https://vercel.com/integrations/sematext-log-drain).
 
 ## Sematext Experience
 
@@ -34,4 +34,4 @@ Increase customer satisfaction by analyzing data from real user sessions. Detect
 - Set alerts for errors
 - Track page loads, HTTP requests, resources, UI interactions, and more...
 
-Add it to your Vercel Account [here](https://vercel.com/integrations/sematext-experience).
+[Click here to add it to your Vercel Account](https://vercel.com/integrations/sematext-experience).
