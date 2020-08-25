@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "functions": {
+    "api/ui.js": {
+      "memory": 1024,
+      "maxDuration": 10
+    },
+    "api/callback.js": {
+      "memory": 1024,
+      "maxDuration": 10
+    }
+  },
+  "env": {
+    "CLIENT_ID": "@sematext-client-id",
+    "CLIENT_SECRET": "@sematext-client-secret",
+    "HOST": "@sematext-host"
+  }
+}
