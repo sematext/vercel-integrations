@@ -38,7 +38,7 @@ module.exports = async (arg, { state }) => {
           <P>Go to <Link href=${`https://apps.${
             region === 'us' ? '' : 'eu.'
           }sematext.com/ui/synthetics/apps`} target="_blank">Sematext Synthetics</Link> and click on the <B>"+ New Synthetics App"</B> button to create an App.</P>
-          <P>Once the App is created, follow the <B>"Synthetics Script Installation"</B> to activate real user monitoring.</P>
+          <P>Once the App is created, click the <B>"+ New Monitor"</B> button to create either an HTTP or Browser Monitor. Browser Monitors will <B>run your API endpoint/website in a Google Chrome browser</B> while the HTTP Monitor will <B>curl</B> the API endpoint/website you configured.</P>
         </FsContent>
       </Fieldset>
 
