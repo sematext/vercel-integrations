@@ -36,7 +36,7 @@ Increase customer satisfaction by analyzing data from real user sessions. Detect
 
 [Click here to add it to your Vercel Account](https://vercel.com/integrations/sematext-experience).
 
-## Sematext Experience
+## Sematext Synthetics
 
 Track business-critical user journeys and click paths. Monitor web performance metrics, third-party performance, and custom metrics.
 
